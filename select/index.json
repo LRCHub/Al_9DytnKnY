@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "暗く黒く(強) (本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE)",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-03-05T22:12:17.003681Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "暗く黒く(強) - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_暗く黒く(強)_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暗く黒く",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_暗く黒く_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
